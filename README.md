@@ -9,5 +9,5 @@ Check keysize from Enclave.cpp file, following line :
 Keysize is 8192 here. Change it if required.
 (If keysize is changed, run Makefile)
 
-Run ./run.sh <keysize>
+Run ./run.sh keysize
 Voila!
